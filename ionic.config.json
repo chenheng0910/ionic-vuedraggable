@@ -1,0 +1,7 @@
+{
+  "name": "SFON_APP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
