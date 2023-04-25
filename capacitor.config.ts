@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'SFON_APP',
+  appId: 'io.sfon.test_app',
+  appName: 'SFON',
   webDir: 'dist',
   bundledWebRuntime: false
 };

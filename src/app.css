@@ -1,0 +1,21 @@
+/*全局样式*/
+:root {
+    /*--ion-background-color: #e9ecea;*/
+    /*--ion-background-color: #ffffff;*/
+    --ion-color-light: #d9dedc;
+    --ion-color-light-rgb: 217, 222, 220;
+}
+.sc-ion-input-md-h:not(.legacy-input) {
+    min-height: 44px;
+}
+.sc-ion-input-md-h{
+    /*border: none;*/
+    --highlight-color: none;
+}
+.fab-vertical-bottom {
+    left: 30px;
+    bottom: 20px;
+}
+:deep(ion-toolbar) {
+    background: red;
+}
